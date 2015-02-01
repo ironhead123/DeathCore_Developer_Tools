@@ -1,0 +1,53 @@
+Id,MsgType
+0,System
+1,Say
+2,Party
+3,Raid
+4,Guild
+5,Officer
+6,Yell
+7,Whisper
+8,Whisper Foreign
+9,Whisper Inform
+10,Emote
+11,Text Emote
+12,Monster Say
+13,Monster Party
+14,Monster Yell
+15,Monster Whisper
+16,Monster Emote
+17,Channel
+18,Channel Join
+19,Channel Leave
+20,Channel List
+21,Channel Notice
+22,Channel Notice User
+23,AFK
+24,DND
+25,Ignored
+26,Skill
+27,Loot
+28,Money
+29,Opening
+30,Tradeskills
+31,Pet Info
+32,Combat Misc Info
+33,Combat XP Gain
+34,Combat Honor Gain
+35,Combat Faction Change
+36,BG System Neutral
+37,BG System Alliance
+38,BG System Horde
+39,Raid Leader
+40,Raid Warning
+41,Raid Boss Emote
+42,Raid Boss Whisper
+43,Filtered
+44,Battleground
+45,Battleground Leader
+46,Restricted
+47,Battlenet
+48,Achievement
+49,Guild Achievement
+50,Arena Points
+51,Party Leader

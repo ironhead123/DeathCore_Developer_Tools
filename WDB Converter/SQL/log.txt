@@ -1,0 +1,21 @@
+=================================
+== ArmageddonWDB v2.9.0.0 log! ==
+=================================
+
+** `questcache.wdb` doesn't exist.
+
+** `itemcache.wdb` doesn't exist.
+
+** `creaturecache.wdb` doesn't exist.
+
+** `gameobjectcache.wdb` doesn't exist.
+
+** `npccache.wdb` doesn't exist.
+
+** `pagetextcache.wdb` doesn't exist.
+
+** `itemnamecache.wdb` doesn't exist.
+
+** `itemtextcache.wdb` doesn't exist.
+
+Done, by ClaudeNegm ;)

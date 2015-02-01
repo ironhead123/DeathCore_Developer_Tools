@@ -1,0 +1,69 @@
+Id,EventType
+0,Update IC
+1,Update OOC
+2,Healt Pct
+3,Mana Pct
+4,Aggro
+5,Kill
+6,Death
+7,Evade
+8,Spellhit
+9,Range
+10,OOC Los
+11,Respawn
+12,Target Health Pct
+13,Target Casting
+14,Friendly Health
+15,Friendly Is Cc
+16,Friendly Missing Buff
+17,Summoned Unit
+18,Target Mana Pct
+19,Accepted Quest
+20,Reward Quest
+21,Reached Home
+22,Receive Emote
+23,Has Aura
+24,Target Buffed
+25,Reset
+26,Ic los
+27,Passenger Boarded
+28,Passenger Removed
+29,Charmed
+30,Charmed Target
+31,Spellhit Target
+32,Damaged
+33,Damaged Target
+34,Movementinform
+35,Summon Despawned
+36,Corpse Removed
+37,Ai Init
+38,Data Set
+39,Waypoint Start
+40,Waypoint Reached
+41,Transport Addplayer
+42,Transport Addcreature
+43,Transport Remove Player
+44,Transport Relocate
+45,Instance Player Enter
+46,Areatrigger ontrigger
+47,Quest Accepted
+48,Quest Obj Copletetion
+49,Quest Completion
+50,Quest Rewarded
+51,Quest Fail
+52,Text Over
+53,Receive Heal
+54,Just Summoned
+55,Waypoint Paused
+56,Waypoint Resumed
+57,Waypoint Stopped
+58,Waypoint Ended
+59,Timed Triggered
+60,Update
+61,Link
+62,Gossip Select
+63,Just Created
+64,Gossip Hello
+65,Follow Completed
+66,Dummy Effect
+67,Is Behind Target
